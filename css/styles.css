@@ -1,0 +1,170 @@
+body{ 
+    /* background-color: lightgreen; */
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather Sans', serif;
+}
+h1{
+    color: #85586F;
+    margin: 140px auto 0 auto;
+    font-family: 'Oregano', cursive;
+    font-size: 5rem;
+    line-height: 2;
+}
+h2{
+    color: #85586F;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+    color: #bda799;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #85586F;
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin: 10px 20px;
+}
+a:hover {
+    /* color: #85586F; */
+    text-decoration: underline;
+    transition: 900ms;
+}
+p{
+    line-height: 2;
+}
+hr{
+    /* border-style: ; */
+    border: dashed #DFD3CE 10px;
+    width: 7%;
+    margin: 100px auto;
+}
+
+.head{
+    background-color: #F8EDE3;
+    display: block;
+    height: 155px;
+    width: 90px;
+    position: fixed;
+    top: 0;
+    /* left: 40%; */
+    border-bottom-right-radius: 20px;
+    text-align: left;
+}
+.head_div{
+    background-color: #F8EDE3;
+    display: block; 
+    border-radius: 20%;
+    width: 100%;
+    position: relative;
+    top: 3%;
+}
+.link_div{
+    margin: 0 9px;
+}
+
+.cont_top{
+    /* margin-bottom: 0px; */
+    background-color: #F8EDE3;
+    position: relative;
+    padding-top: 100px;
+}
+.cont_middle{
+    margin: 100px 0;
+}
+.cont_bottom{
+    background-color: #DFD3C3;
+    padding: 100px 0 60px;
+
+}
+.row_middle{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.pro{
+    text-decoration: underline;
+}
+.pro_h1{
+    padding-bottom: 270px;
+}
+.description{
+    width: 30%;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
+.first_cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bot_cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 200px;
+}
+.programmer{
+    width: 40%;
+}
+.writer{
+    width: 40%;
+}
+.reader{
+    width: 40%;
+}
+.sports{
+    width: 40%;   
+}
+.info_con{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.contact_button {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #85586F;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border: 0;
+  }
+
+.bottom_text{
+    color: #85586F;
+    font-size: 0.65rem;
+    padding: 20px 0;
+}
+.contact_body{
+    background-color: #F8EDE3;
+}
+.contact_h1{
+        color: #85586F;
+        margin: 100px auto 0 auto;
+        font-family: 'Oregano', cursive;
+        font-size: 3.5rem;
+        line-height: 2;
+        width: 60%;
+}
+.contact_li{
+    list-style-type: none;
+    color: #a88a76;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.contact_form{
+    list-style-type: none;
+    color: #a88a76;
+    font-family: 'Montserrat Alternates', sans-serif;
+    /* font-size: 1rem; */
+}
+.contact_boxes{
+    border: 0;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
