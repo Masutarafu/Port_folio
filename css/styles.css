@@ -69,7 +69,8 @@ hr{
     /* margin-bottom: 0px; */
     background-color: #F8EDE3;
     position: relative;
-    padding-top: 100px;
+    padding-top: 120px;
+    padding-bottom: 200px;
 }
 .cont_middle{
     margin: 100px 0;
@@ -97,7 +98,7 @@ hr{
 p{
     line-height: 2;
 }
-.first_cloud{
+/* .first_cloud{
     position: absolute;
     right: 300px;
     top: 50px;
@@ -106,7 +107,7 @@ p{
     position: absolute;
     left: 200px;
     bottom: 200px;
-}
+} */
 .programmer{
     width: 40%;
 }
